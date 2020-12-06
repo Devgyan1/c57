@@ -1,0 +1,20 @@
+body {
+  font-family: font-family: Raleway, sans-serif;;
+  background:#fb9802d2;
+  color: #5dfcbaff;
+  text-align: center;
+  background-color: black;
+}
+h1
+{
+  font-size: 50px;
+  padding: 50px;
+}
+h2
+{
+  font-size: 40px;
+}
+h3
+{
+  font-size: 25px;
+}
